@@ -5417,3 +5417,15 @@ header .flex-child.flex-right {
     padding-bottom: 140px; } }
 
 /*# sourceMappingURL=style.css.map */
+
+@media only screen and (max-width: 1000px) {
+  .move-up {
+    margin-top: 0px;
+  }
+  .move-down {
+    margin-top: 50px;
+  }
+  .make-big {
+    width: 40%;
+  }
+}
